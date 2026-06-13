@@ -1,16 +1,15 @@
-# 
 
-\# Personal Project - Experiment 25
-
+# Personal Project - Experiment 25
 
 
-\## Description
+
+## Description
 
 This project demonstrates how to use Git and GitHub for version control.
 
 
 
-\## Features
+## Features
 
 \- Repository creation
 
